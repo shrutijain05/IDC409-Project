@@ -1,5 +1,5 @@
 # IDC409-Project
-Object Detection and Identification
+Object Detection and Identification. This project is a part of my coursework.
 # Object Identification and Edge Detection System
 
  This system detects objects in images, retrieves their outer edge coordinates, and analyzes shapes using contour-based techniques in OpenCV.
